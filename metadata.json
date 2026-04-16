@@ -1,0 +1,5 @@
+{
+  "name": "Mis Tareas",
+  "description": "A minimalist task management application with profile settings.",
+  "requestFramePermissions": []
+}
